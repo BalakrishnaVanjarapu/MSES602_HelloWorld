@@ -4,8 +4,7 @@
   "description": "Minimal project",
   "main": "app.js",
   "scripts": {
-    "start": "node app.js",
-    "test": "./node_modules/.bin/mocha --exit --timeout 5000 --recursive -R xunit test/* "
+        "test": "mocha  --reporter xunit --output test-results.xml"
   },
   "repository": {
     "type": "git",
