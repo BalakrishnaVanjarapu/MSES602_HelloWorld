@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assemblies>
+  <assembly name="Mocha Tests" time="0.01" total="2" failed="0" passed="2" skipped="0" run-date="2025-04-09" run-time="22:59:32">
+    <collection name="Root Suite" total="0" failed="0" passed="0" time="0" skipped="0">
+    </collection>
+    <collection name="/" total="2" failed="0" passed="2" time="0.01" skipped="0">
+      <test name="/ should return 200" time="0.008" result="Pass">
+      </test>
+      <test name="/ should say &quot;Hello World.&quot;" time="0.002" result="Pass">
+      </test>
+    </collection>
+  </assembly>
+</assemblies>
